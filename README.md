@@ -13,3 +13,6 @@ Adding members in the network - O(1).
 Adding friends of the members - O(n).
 
 Displaying friend list - O(n^2).
+
+here's a demo of it
+![image](https://github.com/DEEP-17/Social-Media-Network-Functionalities/assets/127335092/c53accd5-98e9-45b3-8a8e-fd64bbfd7162)
